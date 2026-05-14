@@ -1,1 +1,25 @@
 
+1. The Coupon
+
+Coupon code: FRESHMAN26
+
+The coupon offers a 15% discount for orders over 100 CZK. The business logic behind this coupon is to encourage new Erasmus students to place their first order while also increasing the average order value. By setting a minimum order amount, the discount motivates users to buy more than just one small item.
+
+
+2. The Automation
+
+I used MailPoet to create a newsletter subscription flow for MCoFFe. The welcome email is designed to confirm the user’s subscription and introduce them to the brand.
+
+Subject line:
+Confirm your subscription to MCoFFe
+
+The email welcomes the user, asks them to confirm their subscription, and connects them with the MCoFFe mailing list. In a real campaign, this welcome email could also include the FRESHMAN26 coupon code to encourage the first purchase.
+
+
+3. The Data Strategy
+
+I added a personalization idea to the loyalty form: asking users what their favorite coffee is, with options such as Espresso, Latte, and Cappuccino.
+
+This data could be used to send more relevant emails. For example, if a user chooses Latte, I could send them promotions about oat milk or seasonal latte flavors. If they choose Espresso, I could send them offers for strong coffee or morning deals. If they choose Cappuccino, I could promote cake pairings or breakfast combos.
+
+Using this information would help Erasmus Brew / MCoFFe send more personal and useful messages instead of sending the same promotion to every customer.
